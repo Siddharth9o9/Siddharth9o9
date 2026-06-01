@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Developer;LangChain+%7C+LLMs+%7C+Agentic+AI;Building+autonomous+AI+systems;RAG+%7C+Multi-Agent+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Developer;Agentic+AI+%7C+Gen+AI+%7C+AI/ML;Building+autonomous+AI+systems;RAG+GraphRAG%7C+Multi-Agent+Workflows)](https://git.io/typing-svg)
 
 </div>
 
@@ -111,9 +111,9 @@ NOW   ──▶  Exploring agent memory, fine-tuning & autonomous workflows
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-siddharth-gupta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddharth9o9)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthguptaa7@gmail.com)
 
 </div>
 
