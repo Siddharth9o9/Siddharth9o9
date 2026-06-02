@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Developer;Agentic+AI+%7C+Gen+AI+%7C+AI/ML;Building+Autonomous+AI+Agents;RAG+GraphRAG%7C+Multi-Agent+RAG+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Senior+AI%2FML+Developer;Agentic+AI+%7C+Gen+AI+%7C+AI/ML;Building+Autonomous+AI+Agents;RAG%7C+GraphRAG%7C+Multi-Agent+RAG+Systems)](https://git.io/typing-svg)
 
 </div>
 
