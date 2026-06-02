@@ -19,8 +19,7 @@
 ```python
 siddharth = {
     "role"      : "Senior AI/ML Developer",
-    "focus"     : ["LLMs", "Agentic AI", "RAG Systems", "Gen AI",
-                     "Classic ML & DL"],
+    "focus"     : ["LLMs", "Agentic AI", "RAG Systems", "Gen AI"],
     "currently" : "Working on RAG Architectures & Autonomous AI Agents",
     "learning"  : ["Claude", "LLM fine-tuning"],
     "motto"     : "Ship agents, not scripts."
